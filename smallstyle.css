@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.happy{
+    width:100%;
+    border-radius:0 0 0 0;
+}
+aside.micky{
+    text-align: center;
+    float: inherit;
+}
+aside.child{
+    text-align: center;
+    float: inherit;
+  
+}
